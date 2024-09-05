@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Arcer23
-- 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning Backend Development with Node.js , Express.js and mongoDB
-- 💞️ I’m looking to collaborate on Web Technologies
-  Contact Me : pranishkadel1@gmail.com
+# 👋 Hello, I'm Pranish Kadel (Arcer)!
 
-<!---
-Arcer23/Arcer23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 **Backend Developer** | 🖥 **JavaScript Enthusiast** | 🎓 **Class 12 Student**
+
+I’m passionate about creating efficient, scalable, and modular backend solutions. Currently, I’m working with:
+- ⚙️ **Node.js**, **Express.js**
+- 🗄 **MongoDB**, **Mongoose**
+- 🔑 **Authentication** using **Passport.js**
+
+### 🌱 What I’m Learning
+- 🧠 Advanced backend development techniques
+- 🚀 Building web apps with **React**
+
+### 💡 Fun Facts
+- I love automating tasks with code 🤖
+- I'm always looking for new tools to improve productivity ⚡
+
+### 📫 How to Reach Me:
+- ✉️ Email: pranishkadel1@gmail.com
+
+Let’s connect and collaborate! 😊
