@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Pranish Kadel (Arcer)!
+# 👋 Hello, I'm Pranish Kadel 
 
-🔧 **Backend Developer** | 🖥 **JavaScript Enthusiast** | 🎓 **Class 12 Student**
+🔧 **Backend Developer** | 🖥 **JavaScript Enthusiast** 
 
 I’m passionate about creating efficient, scalable, and modular backend solutions. Currently, I’m working with:
 - ⚙️ **Node.js**, **Express.js**
@@ -9,7 +9,6 @@ I’m passionate about creating efficient, scalable, and modular backend solutio
 
 ### 🌱 What I’m Learning
 - 🧠 Advanced backend development techniques
-- 🚀 Building web apps with **React**
 
 ### 💡 Fun Facts
 - I love automating tasks with code 🤖
