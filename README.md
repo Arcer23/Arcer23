@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranish Kadel</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1>Hi 👋, I'm Pranish Kadel</h1>
+<h3>A passionate frontend developer from Nepal</h3>
 
 - 🌱 I’m currently learning **Golang and AWS**
 
